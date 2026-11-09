@@ -42,7 +42,6 @@ resources/views/components/footer.blade.php
 Data sepatu disimpan sebagai array di `PageController`, lalu dikirim ke view dan ditampilkan dengan `@foreach`.
 
 
-### Login
 ## Screenshot
 
 ### Login
